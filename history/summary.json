@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/acme.rua.dev.ico",
     "slug": "acme",
     "status": "up",
-    "uptime": "8.51%",
-    "uptimeDay": "8.51%",
-    "uptimeWeek": "8.51%",
-    "uptimeMonth": "8.51%",
-    "uptimeYear": "8.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 97,
     "timeDay": 97,
     "timeWeek": 97,
     "timeMonth": 97,
     "timeYear": 97,
-    "dailyMinutesDown": {
-      "2024-03-19": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
